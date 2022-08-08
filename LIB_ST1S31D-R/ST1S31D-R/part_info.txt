@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST1S31D-R
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=3.1
+Released=2018-06-19 06:29:27
+Downloaded=2022-08-08 14:10:23
+3D=Y

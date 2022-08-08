@@ -1,0 +1,18 @@
+.ST1S31D-R :1 ;STMicroelectronics, ST1S31D-R Step-Down Switching Regulator 3A Adjustable 8-Pin, SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="VINA" 2="EN" 3="FB" 4="GND" 5="PG" 6="VINSW" 7="SW" 8="PGND"
+*MXP 8
+*DFN ST1S31D-R
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ST1S31D-R)
+~!Mouser Part Number (511-ST1S31D-R)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=511-ST1S31D-R)
+~!Arrow Part Number (ST1S31D-R)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/st1s31d-r/stmicroelectronics)
+~!Link Datasheet (http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/ec/e5/76/72/e8/25/4d/47/DM00051589/files/DM00051589.pdf/jcr:content/translations/en.DM00051589.pdf)
+~!Height (1.75mm)
+~!3D_Model (ST1S31D-R)
+ST1S31D-R
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

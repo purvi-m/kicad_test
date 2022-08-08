@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ST1S31D_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ST1S31D-R" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "511-ST1S31D-R", "https://www.mouser.com/Search/Refine.aspx?Keyword=511-ST1S31D-R", "ST1S31D-R", "https://www.arrow.com/en/products/st1s31d-r/stmicroelectronics", "STMicroelectronics, ST1S31D-R Step-Down Switching Regulator 3A Adjustable 8-Pin, SOIC", "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/ec/e5/76/72/e8/25/4d/47/DM00051589/files/DM00051589.pdf/jcr:content/translations/en.DM00051589.pdf", "1.75 mm"
+END_PART
+
+END.

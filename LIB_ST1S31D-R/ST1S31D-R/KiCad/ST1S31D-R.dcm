@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST1S31D-R
+D STMicroelectronics, ST1S31D-R Step-Down Switching Regulator 3A Adjustable 8-Pin, SOIC
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/ec/e5/76/72/e8/25/4d/47/DM00051589/files/DM00051589.pdf/jcr:content/translations/en.DM00051589.pdf
+$ENDCMP
+#
+#End Doc Library
